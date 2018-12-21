@@ -1,0 +1,45 @@
+
+header{
+padding:10px;
+background-color:#EBEBEB;
+color:black;
+font-family:Georgia;
+margin:0 auto;
+
+}
+
+nav{
+background-color:#EBEBEB;
+padding:10px;
+	
+}
+
+main{
+max-width:960px;
+margin:0 auto;
+font-size: 20px;
+padding:10px;
+}
+
+h1{
+background-color:#EBEBEB;
+padding:10px;
+}
+
+h2{
+margin-top:45px;
+padding:10px;
+}
+
+body{
+background-color:black;
+padding:10px;
+
+}
+
+
+footer{
+text-align:center;
+padding: 10px;
+color: black;
+}
